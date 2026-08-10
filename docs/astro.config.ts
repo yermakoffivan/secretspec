@@ -157,13 +157,13 @@ Secrets can be stored in: keyring (default), KeePass KDBX (0.17+), dotenv files,
             { label: "Quick Start", slug: "quick-start" },
             { label: "Basic Usage", slug: "basic-usage" },
             { label: "Migration", slug: "migration" },
-            { label: "Comparison", slug: "comparison" },
           ],
         },
         {
           label: "Concepts",
           items: [
             { label: "Overview", slug: "concepts/overview" },
+            { label: "Comparison", slug: "comparison" },
             {
               label: "secretspec.toml",
               slug: "concepts/declarative",
